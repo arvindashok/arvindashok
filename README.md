@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **PC Building, Machine Learning**
+- 💬 Ask me about **PC Building and Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
