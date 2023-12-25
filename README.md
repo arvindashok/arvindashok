@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Phishing detection using Machine Learning**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter** and **Cybersecurity**
 
 - 👯 I’m looking to collaborate on **traffic analysis using OpenCV**
 
