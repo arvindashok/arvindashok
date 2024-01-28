@@ -9,7 +9,7 @@
 
 -  Looking for help with **fine tuning domain specific LLMs**
 
--  Passionate about building **high-performance custom PCs**, with a focus on optimizing components for **efficiency and functionality**
+-  Passionate about building **high-performance custom PCs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
