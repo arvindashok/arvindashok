@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Arvind Ashok</h1>
+<h1 align="center">Hi , I'm Arvind Ashok</h1>
 <h3 align="center">Computer Science major at BMS College of Engineering</h3>
 
-- 🔭 I’m currently working on **Phishing detection using Machine Learning**
+-  Ongoing research in **Comparing Machine Learning and Deep Learning algorithms in Phishing detection**
 
-- 🌱 I’m currently learning **Cybersecurity**
+-  I'm currently learning **Cybersecurity**
+  
+-  Interested in **Ethical Hacking**
 
-- 🤝 I’m looking for help with **fine tuning domain specific LLMs**
+-  Looking for help with **fine tuning domain specific LLMs**
 
-- 💬 Ask me about **PC Building, Machine Learning**
+-  Ask me about **PC Building, Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
