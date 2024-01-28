@@ -1,9 +1,9 @@
 <h1 align="center">Hi , I'm Arvind Ashok</h1>
 <h3 align="center">Computer Science major at BMS College of Engineering</h3>
 
--  Ongoing research in **Comparing Machine Learning and Deep Learning algorithms in Phishing detection**
-
 -  I'm currently learning **Cybersecurity**
+  
+-  Ongoing research in **Comparing Machine Learning and Deep Learning algorithms in Phishing detection**
   
 -  Interested in **Ethical Hacking**
 
