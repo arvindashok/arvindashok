@@ -3,13 +3,13 @@
 
 -  Currently expanding my knowledge in **Cybersecurity** through **professional certificate courses**
   
--  Conducting research on **Comparing Machine Learning and Deep Learning algorithms in Phishing detection**
+-  Conducting research on **Malware Analysis and Large Language Models**
   
 -  Interested in learning more about **Ethical Hacking**
 
--  Looking for help with **fine tuning domain specific LLMs**
+-  Learning about **fine tuning domain specific LLMs**
 
--  Passionate about building **high-performance custom PCs**
+-  Passionate about building **high-performance PCs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
